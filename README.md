@@ -76,11 +76,4 @@ Feel free to reach out to me via **Telegram** or **Discord** to discuss collabor
 
 ---
 
-## 📧 Contact
-
-- **Telegram**: [@udp07](https://t.me/udp07)
-- **Discord**: [@wanted#1234](https://discord.com/users/326722334771904512)
-
----
-
 Thank you for visiting my profile! If you like what I do, follow me on GitHub and feel free to check out my open-source projects. I'm always open to collaboration and sharing knowledge with the community. Let's make the internet a safer place! 🚀
