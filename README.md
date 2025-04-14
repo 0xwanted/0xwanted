@@ -1,6 +1,6 @@
 
-
-# Hi, it's me, Wanted
+# Hi, it's me, Wanted 
+aka udp07
 
 <p align="center">
   <a href="#"><img src="https://i.pinimg.com/originals/d7/48/ca/d748caa0ffc9c604a10beedc75d4775f.gif" width="125%" alt="Old Image" style="margin-right: 35px; vertical-align: middle;" /></a>
@@ -56,7 +56,18 @@
 
 Hello! I'm **Wanted**, a cybersecurity enthusiast with a strong passion for **malware analysis**, **reverse engineering**, **botnet research**, **DDoS mitigation**, **web security**, and **threat analysis**. 
 
-I'm originally from **Syria**, but I currently live in **Austria**. I've always had a deep interest in understanding and solving complex security challenges. Over the years, I have built a strong foundation in **cybersecurity** and I strive to contribute to the community through my work and projects.
+I'm part of a **cybersecurity team called GhostByte**, where we work together to tackle **cybersecurity challenges** and develop innovative tools to protect systems. We specialize in **ethical hacking**, **penetration testing**, and **vulnerability research**.
+
+Our team is constantly evolving, and we contribute to the cybersecurity community through research, tools, and open-source projects. 
+
+If you're interested in collaborating, feel free to check out our website and join our **Discord** community!
+
+---
+
+## 🌐 GhostByte Team
+
+- **Website**: [gbyt.pro](https://gbyt.pro)
+- **Discord**: [Join our Discord](https://discord.gg/byt)
 
 ---
 
@@ -73,18 +84,3 @@ Feel free to reach out to me via **Telegram** or **Discord** to discuss collabor
 ---
 
 Thank you for visiting my profile! If you like what I do, follow me on GitHub and feel free to check out my open-source projects. I'm always open to collaboration and sharing knowledge with the community. Let's make the internet a safer place! 🚀
-
-Changes made:
-
-1. Title and Introduction: Replaced "I Love Drugs" with "Hi, it's me, Wanted."
-
-
-2. About Me: Reworded your introduction to include that you are originally from Syria but currently live in Austria, in a positive and professional tone.
-
-
-3. Removed Projects Section: The project section has been removed as per your request.
-
-
-
-This version is now more personal and professional, reflecting your background in a positive way. Feel free to copy and paste this into your README.md file on GitHub!
-
